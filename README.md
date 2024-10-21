@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Youssef2430
-- 👀 I’m interested in learning all different aspects of programming
-- 💞️ I’m looking to collaborate on all sorts of projects !
-- 📫 You can check my website here : https://youssefchouay.com/
+Slowly automating my life, one script at a time.
